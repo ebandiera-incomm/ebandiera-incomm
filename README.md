@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebandiera-incomm
+- 👋 Hi, I’m [Evandro! ](www.linkedin.com/in/evandrobandiera)
 - 👀 I’m interested in coding and sports 🏎⚽🏈
 <!---
 - 🌱 I’m currently learning ...
