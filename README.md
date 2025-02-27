@@ -1,4 +1,10 @@
-- 👋 Hi, I’m [Evandro! ](www.linkedin.com/in/evandrobandiera)
+<a href="https:/www.linkedin.com/in/evandrobandiera" target="_blank">example</a>
+
+[link](https:/www.linkedin.com/in/evandrobandiera/){:target="_blank"}
+
+The Link [Registration](https:/www.linkedin.com/in/evandrobandiera)
+
+- 👋 Hi, I’m [Evandro! ](https:/www.linkedin.com/in/evandrobandiera)
 - 👀 I’m interested in coding and sports 🏎⚽🏈
 <!---
 - 🌱 I’m currently learning ...
